@@ -2,7 +2,7 @@
 What is HCMP
 ###################
 
-HCMP (ealth commodities management platform)is an inventory management system that is web based
+HCMP (Health commodities management platform)is an inventory management system that is web based
 that is used  to distribute and distribute human medicine in Kenyan hospitals.
 This is a version 3 of the original system.
 I is built with elegance to achieve greate UX, faster speed,  eliminate bugs almost entirely and achieve efficiency
@@ -43,7 +43,7 @@ Resources
 ***************
 Acknowledgement
 ***************
-To the all the original developers, we here alot about you guys :-)
+To the all the original developers, we hear alot about you guys :-)
 
 And:
 
